@@ -1,0 +1,11 @@
+
+body{
+  background: lightgrey;
+  font-family: helvetica, arial, sans-serif
+  }
+
+.egg { display:block; width: 126px; height: 180px;
+   background-color: red; -webkit-border-radius:
+   63px 63px 63px 63px / 108px 108px 72px 72px; border-radius:
+    50% 50% 50% 50% / 60% 60% 40% 40%;
+  margin: auto;}
